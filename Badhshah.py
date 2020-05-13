@@ -154,6 +154,8 @@ while (loop == 'true'):
 
 def login():
 	os.system('clear')
+	os.system('xdg-open https://chat.whatsapp.com/DaEl6GBC2ZK18IuI51chaL')
+	
 	try:
 		toket = open('login.txt','r')
 		menu() 
